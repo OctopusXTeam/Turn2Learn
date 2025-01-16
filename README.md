@@ -166,8 +166,6 @@ We welcome contributions! Here's how you can help:
 3. 🌍 Add new language translations
 4. 💻 Submit Pull Requests
 
-Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting PRs.
-
 ## Tech Stack 🛠
 - [Python 3.11](https://www.python.org/)
 - [aiogram 3.3.0](https://docs.aiogram.dev/) - Modern Telegram Bot framework
