@@ -6,7 +6,7 @@ A Telegram bot for learning words using flashcards. Supports multilingual cards 
 You can try the bot without installation by clicking this link: [@Turn2Learn_bot](https://t.me/Turn2Learn_bot)
 
 ## Demo 📱
-![Demo GIF](docs/demo.gif)
+![Demo GIF](demo.gif)
 
 ## Why Turn2Learn? 🎯
 - 📚 Learn multiple languages simultaneously
