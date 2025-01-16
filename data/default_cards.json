@@ -1,0 +1,94 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "translations": {
+                "ru": "Привет",
+                "en": "Hello",
+                "es": "Hola",
+                "ro": "Salut"
+            },
+            "statistics": {
+                "total_attempts": 0,
+                "correct_answers": 0,
+                "wrong_answers": 0,
+                "last_shown": null,
+                "last_result": null,
+                "correct_streak": 0,
+                "wrong_streak": 0
+            }
+        },
+        {
+            "id": 2,
+            "translations": {
+                "ru": "Спасибо",
+                "en": "Thank you",
+                "es": "Gracias",
+                "ro": "Mulțumesc"
+            },
+            "statistics": {
+                "total_attempts": 0,
+                "correct_answers": 0,
+                "wrong_answers": 0,
+                "last_shown": null,
+                "last_result": null,
+                "correct_streak": 0,
+                "wrong_streak": 0
+            }
+        },
+        {
+            "id": 3,
+            "translations": {
+                "ru": "Да",
+                "en": "Yes",
+                "es": "Sí",
+                "ro": "Da"
+            },
+            "statistics": {
+                "total_attempts": 0,
+                "correct_answers": 0,
+                "wrong_answers": 0,
+                "last_shown": null,
+                "last_result": null,
+                "correct_streak": 0,
+                "wrong_streak": 0
+            }
+        },
+        {
+            "id": 4,
+            "translations": {
+                "ru": "Нет",
+                "en": "No",
+                "es": "No",
+                "ro": "Nu"
+            },
+            "statistics": {
+                "total_attempts": 0,
+                "correct_answers": 0,
+                "wrong_answers": 0,
+                "last_shown": null,
+                "last_result": null,
+                "correct_streak": 0,
+                "wrong_streak": 0
+            }
+        },
+        {
+            "id": 5,
+            "translations": {
+                "ru": "Пожалуйста",
+                "en": "Please",
+                "es": "Por favor",
+                "ro": "Te rog"
+            },
+            "statistics": {
+                "total_attempts": 0,
+                "correct_answers": 0,
+                "wrong_answers": 0,
+                "last_shown": null,
+                "last_result": null,
+                "correct_streak": 0,
+                "wrong_streak": 0
+            }
+        }
+    ]
+}
